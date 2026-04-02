@@ -12,3 +12,4 @@ Awaiting shipment of samples from Ron Knight.
 
 - Held a planning session.
 - Decided on an initial formulation approach.
+- Smoke test: Replit operating model verified 2026-04-02.
