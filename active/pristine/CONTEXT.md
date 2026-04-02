@@ -8,6 +8,8 @@ Last updated: 2026-03-28
 
 Canonical operating reference: **`active/pristine/FOUNDERS_CHEAT_SHEET.md`** (imported from `Pristine_Founders_Cheat_Sheet_03.02.2026.docx`).
 
+Operational contact: Cole Genspark Claw email — **cole@genspark.email**.
+
 ## System phrasing (align intentionally)
 
 - **Phase 1 / customer-facing architecture (cheat sheet):** Clean → Treat → Finish.
