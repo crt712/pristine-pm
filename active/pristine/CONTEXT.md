@@ -21,6 +21,7 @@ Canonical operating reference: **`active/pristine/FOUNDERS_CHEAT_SHEET.md`** (im
 - Entity filing detail (Enablr NC, etc.): **`legal/CANONICAL-ENTITY-STRUCTURE.md`** where relevant
 
 Doctrine references a **Mar 2026 consumer survey** summary belonging in this file; that summary is **not** yet present in the integrated cheat sheet—add when available.
+- **[Signal: Unit Economics Model]** COGS and margin assumptions drive all go/no-go decisions on pricing. — Unit economics have been modeled with real supplier quotes — ready to influence pricing strategy. _(confidence: Medium; area: pricing, go-to-market)_
 
 ## Key constraints
 
