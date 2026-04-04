@@ -142,7 +142,23 @@ Full export of the tasks/actions database. Updated whenever a task is created, e
 
 ---
 
-## 6. API Endpoints Lindy Can Call
+## 6. Authentication
+
+All API calls require an API key. Pass it in either of these headers:
+
+```
+Authorization: Bearer <LINDY_API_KEY>
+```
+or
+```
+X-Api-Key: <LINDY_API_KEY>
+```
+
+The key is stored in Replit under the environment variable `LINDY_API_KEY`. Cole can retrieve the value from the Replit Secrets panel and paste it into Lindy's HTTP action configuration.
+
+---
+
+## 7. API Endpoints Lindy Can Call
 
 Base URL: `https://pristine-pm.replit.app`
 
@@ -244,7 +260,7 @@ Returns an operator-grade briefing synthesized from current canon state.
 
 ---
 
-## 7. Telegram Bot Commands
+## 8. Telegram Bot Commands
 
 The Pristine PM Telegram bot (@pristinepmbot) gives Cole mobile access to the same system. Lindy can be aware of these so it understands the operator's natural workflow:
 
@@ -265,7 +281,7 @@ Natural language also works — Cole can just type "who is our contact at Belle 
 
 ---
 
-## 8. How Project Updates Work
+## 9. How Project Updates Work
 
 Cole does not edit these markdown files directly. The workflow is:
 
@@ -282,7 +298,7 @@ Cole does not edit these markdown files directly. The workflow is:
 
 ---
 
-## 9. Key Relationships and Contacts
+## 10. Key Relationships and Contacts
 
 Top contacts for context (from contacts database):
 
@@ -298,7 +314,7 @@ For full contact list with emails and phone numbers, read `data/contacts.json`.
 
 ---
 
-## 10. Suggested Lindy Automations
+## 11. Suggested Lindy Automations
 
 Based on how Cole uses this system, the most valuable automations Lindy could run:
 
@@ -314,9 +330,9 @@ Based on how Cole uses this system, the most valuable automations Lindy could ru
 
 ---
 
-## 11. Important Rules for Lindy
+## 12. Important Rules for Lindy
 
 - **Never directly edit `STATUS.md`, `CONTEXT.md`, `DECISIONS.md`, or `WORKING_SESSION.md`** — these are managed exclusively through the Pristine PM propose/apply workflow to maintain integrity and audit trail
-- **`data/contacts.json` and `data/tasks.json` are read-only exports** — to create or update contacts/tasks, use the API endpoints listed in Section 6
+- **`data/contacts.json` and `data/tasks.json` are read-only exports** — to create or update contacts/tasks, use the API endpoints listed in Section 7
 - **`DECISIONS.md` only contains finalized, confirmed decisions** — do not interpret open questions or working notes as decisions
 - **The `FOUNDERS_CHEAT_SHEET.md` is the authoritative source** for entity details, legal info, and business identity — use it, not any other file, for those facts
