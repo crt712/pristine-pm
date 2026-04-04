@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-04T17:34:48.876Z",
+  "exported_at": "2026-04-04T17:35:11.589Z",
   "count": 37,
   "contacts": [
     {
@@ -176,21 +176,21 @@
     {
       "id": 18,
       "name": "David Butzer",
-      "email": "david@fcsconsulting.net",
+      "email": "",
       "email_secondary": "",
       "phone_mobile": "",
-      "phone_office": "",
-      "company": "FCS Consulting",
+      "phone_office": "716-462-8505",
+      "company": "",
       "role_title": "",
-      "introduced_by": "Direct Outreach",
-      "category": "Product Development",
-      "context": "Formulation consultant for laundry detergent MVP; enzyme compatibility, QCMC/CMC formulation, Phase 1 product strategy",
+      "introduced_by": "",
+      "category": "",
+      "context": "",
       "relationship_status": "",
-      "last_contact_date": "2026-02-14T00:00:00.000Z",
+      "last_contact_date": null,
       "next_step": "",
       "notes": "",
       "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "updated_at": "2026-04-04T17:35:11.515Z"
     },
     {
       "id": 14,
@@ -364,25 +364,6 @@
       "updated_at": "2026-03-29T13:57:30.901Z"
     },
     {
-      "id": 16,
-      "name": "Jorge Estrada",
-      "email": "jorge@earthconscioussolutions.com",
-      "email_secondary": "",
-      "phone_mobile": "",
-      "phone_office": "",
-      "company": "Earth Conscious Solutions",
-      "role_title": "",
-      "introduced_by": "Direct Contact",
-      "category": "Project Collaboration",
-      "context": "Laundry detergent collaboration; sustainability focus",
-      "relationship_status": "",
-      "last_contact_date": "2026-01-23T00:00:00.000Z",
-      "next_step": "",
-      "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
-    },
-    {
       "id": 17,
       "name": "Jorge Estrada",
       "email": "jorgeestrada08@gmail.com",
@@ -396,6 +377,25 @@
       "context": "Personal email for Jorge",
       "relationship_status": "",
       "last_contact_date": "2026-02-10T00:00:00.000Z",
+      "next_step": "",
+      "notes": "",
+      "created_at": "2026-03-29T13:57:30.901Z",
+      "updated_at": "2026-03-29T13:57:30.901Z"
+    },
+    {
+      "id": 16,
+      "name": "Jorge Estrada",
+      "email": "jorge@earthconscioussolutions.com",
+      "email_secondary": "",
+      "phone_mobile": "",
+      "phone_office": "",
+      "company": "Earth Conscious Solutions",
+      "role_title": "",
+      "introduced_by": "Direct Contact",
+      "category": "Project Collaboration",
+      "context": "Laundry detergent collaboration; sustainability focus",
+      "relationship_status": "",
+      "last_contact_date": "2026-01-23T00:00:00.000Z",
       "next_step": "",
       "notes": "",
       "created_at": "2026-03-29T13:57:30.901Z",
