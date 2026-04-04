@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-04-04T17:39:01.615Z",
+  "exported_at": "2026-04-04T17:39:38.167Z",
   "count": 38,
   "contacts": [
     {
@@ -176,21 +176,21 @@
     {
       "id": 14,
       "name": "David Butzer",
-      "email": "",
+      "email": "dbutzer@crescentmfg.net",
       "email_secondary": "",
       "phone_mobile": "",
       "phone_office": "716-462-8505",
-      "company": "",
+      "company": "Crescent Manufacturing",
       "role_title": "",
-      "introduced_by": "",
-      "category": "",
-      "context": "",
+      "introduced_by": "Direct Outreach",
+      "category": "Product Development",
+      "context": "Alternate email; CC'd on formulation discussions",
       "relationship_status": "",
-      "last_contact_date": null,
+      "last_contact_date": "2026-02-14T00:00:00.000Z",
       "next_step": "",
       "notes": "",
       "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-04-04T17:39:01.544Z"
+      "updated_at": "2026-04-04T17:39:38.093Z"
     },
     {
       "id": 18,
