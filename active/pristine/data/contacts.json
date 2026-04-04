@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-04-04T17:39:38.167Z",
-  "count": 38,
+  "exported_at": "2026-04-04T17:39:49.798Z",
+  "count": 37,
   "contacts": [
     {
       "id": 24,
@@ -193,25 +193,6 @@
       "updated_at": "2026-04-04T17:39:38.093Z"
     },
     {
-      "id": 18,
-      "name": "David Butzer",
-      "email": "",
-      "email_secondary": "",
-      "phone_mobile": "",
-      "phone_office": "716-462-8505",
-      "company": "",
-      "role_title": "",
-      "introduced_by": "",
-      "category": "",
-      "context": "",
-      "relationship_status": "",
-      "last_contact_date": null,
-      "next_step": "",
-      "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-04-04T17:35:11.515Z"
-    },
-    {
       "id": 32,
       "name": "Dennis Martinez",
       "email": "dennis.martinez@tricorbraun.com",
@@ -364,25 +345,6 @@
       "updated_at": "2026-03-29T13:57:30.901Z"
     },
     {
-      "id": 17,
-      "name": "Jorge Estrada",
-      "email": "jorgeestrada08@gmail.com",
-      "email_secondary": "",
-      "phone_mobile": "",
-      "phone_office": "",
-      "company": "Earth Conscious Solutions",
-      "role_title": "",
-      "introduced_by": "Direct Contact",
-      "category": "Project Collaboration",
-      "context": "Personal email for Jorge",
-      "relationship_status": "",
-      "last_contact_date": "2026-02-10T00:00:00.000Z",
-      "next_step": "",
-      "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
-    },
-    {
       "id": 16,
       "name": "Jorge Estrada",
       "email": "jorge@earthconscioussolutions.com",
@@ -396,6 +358,25 @@
       "context": "Laundry detergent collaboration; sustainability focus",
       "relationship_status": "",
       "last_contact_date": "2026-01-23T00:00:00.000Z",
+      "next_step": "",
+      "notes": "",
+      "created_at": "2026-03-29T13:57:30.901Z",
+      "updated_at": "2026-03-29T13:57:30.901Z"
+    },
+    {
+      "id": 17,
+      "name": "Jorge Estrada",
+      "email": "jorgeestrada08@gmail.com",
+      "email_secondary": "",
+      "phone_mobile": "",
+      "phone_office": "",
+      "company": "Earth Conscious Solutions",
+      "role_title": "",
+      "introduced_by": "Direct Contact",
+      "category": "Project Collaboration",
+      "context": "Personal email for Jorge",
+      "relationship_status": "",
+      "last_contact_date": "2026-02-10T00:00:00.000Z",
       "next_step": "",
       "notes": "",
       "created_at": "2026-03-29T13:57:30.901Z",
