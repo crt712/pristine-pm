@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-04-05T02:58:48.797Z",
-  "count": 37,
+  "exported_at": "2026-04-04T17:29:08.911Z",
+  "count": 39,
   "contacts": [
     {
       "id": 24,
@@ -18,27 +18,27 @@
       "last_contact_date": "2026-02-13T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 5,
       "name": "Adam Thomas",
-      "email": "",
+      "email": "adam.thomas@beautyprivatelabels.com",
       "email_secondary": "",
-      "phone_mobile": "+1 (336) 270-9299",
+      "phone_mobile": "",
       "phone_office": "",
-      "company": "",
+      "company": "Beauty Private Label LLC",
       "role_title": "",
-      "introduced_by": "",
-      "category": "",
-      "context": "",
+      "introduced_by": "Himani Sode",
+      "category": "Manufacturing",
+      "context": "COO; deodorant and laundry manufacturing",
       "relationship_status": "",
-      "last_contact_date": null,
+      "last_contact_date": "2026-01-23T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-04-04T17:34:48.795Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 25,
@@ -56,8 +56,8 @@
       "last_contact_date": "2026-02-03T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 34,
@@ -75,8 +75,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 1,
@@ -91,11 +91,30 @@
       "category": "Finance",
       "context": "Bookkeeping for Pristine; QBO, e-commerce accounting, COGS tracking",
       "relationship_status": "",
+      "last_contact_date": "2026-02-15T00:00:00.000Z",
+      "next_step": "",
+      "notes": "",
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:53:23.139Z"
+    },
+    {
+      "id": 2,
+      "name": "Arun Kumar",
+      "email": "karunnagyaan@aswebsmart.com",
+      "email_secondary": "",
+      "phone_mobile": "",
+      "phone_office": "",
+      "company": "AS WebSmart (Upwork)",
+      "role_title": "",
+      "introduced_by": "Upwork Platform",
+      "category": "Operations",
+      "context": "Zoho consultant; test milestone",
+      "relationship_status": "",
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 27,
@@ -113,8 +132,27 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
+    },
+    {
+      "id": 36,
+      "name": "Christa Fogleman Proano",
+      "email": "",
+      "email_secondary": "",
+      "phone_mobile": "",
+      "phone_office": "",
+      "company": "Walmart",
+      "role_title": "",
+      "introduced_by": "LinkedIn Research",
+      "category": "PR/Communications",
+      "context": "Communications Lead, Technology, Startups & Incubation; potential future retail/PR connection",
+      "relationship_status": "",
+      "last_contact_date": null,
+      "next_step": "",
+      "notes": "",
+      "created_at": "2026-03-28T18:52:47.866Z",
+      "updated_at": "2026-03-28T18:52:47.866Z"
     },
     {
       "id": 30,
@@ -132,27 +170,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
-    },
-    {
-      "id": 38,
-      "name": "Dan Downs",
-      "email": "dan.downs@sensient.com",
-      "email_secondary": "",
-      "phone_mobile": "",
-      "phone_office": "",
-      "company": "Sensient Beauty",
-      "role_title": "Sales Account Manager – Personal Care & Specialty Markets North America",
-      "introduced_by": "",
-      "category": "Sourcing/Supply",
-      "context": "",
-      "relationship_status": "",
-      "last_contact_date": null,
-      "next_step": "",
-      "notes": "(908) 895-7180",
-      "created_at": "2026-04-02T07:47:50.684Z",
-      "updated_at": "2026-04-02T07:47:50.684Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 10,
@@ -165,13 +184,32 @@
       "role_title": "",
       "introduced_by": "Eric Owens",
       "category": "Networking",
-      "context": "Program Manager; startup ecosystem connection",
+      "context": "Program Manager; p: 803-529-1112; startup ecosystem connection",
       "relationship_status": "",
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:53:27.303Z"
+    },
+    {
+      "id": 18,
+      "name": "David Butzer",
+      "email": "david@fcsconsulting.net",
+      "email_secondary": "",
+      "phone_mobile": "",
+      "phone_office": "",
+      "company": "FCS Consulting",
+      "role_title": "",
+      "introduced_by": "Direct Outreach",
+      "category": "Product Development",
+      "context": "Formulation consultant for laundry detergent MVP; enzyme compatibility, QCMC/CMC formulation, Phase 1 product strategy",
+      "relationship_status": "",
+      "last_contact_date": "2026-02-14T00:00:00.000Z",
+      "next_step": "",
+      "notes": "",
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 14,
@@ -179,7 +217,7 @@
       "email": "dbutzer@crescentmfg.net",
       "email_secondary": "",
       "phone_mobile": "",
-      "phone_office": "716-462-8505",
+      "phone_office": "",
       "company": "Crescent Manufacturing",
       "role_title": "",
       "introduced_by": "Direct Outreach",
@@ -189,8 +227,8 @@
       "last_contact_date": "2026-02-14T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-04-04T17:39:38.093Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 32,
@@ -208,8 +246,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 31,
@@ -227,8 +265,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 6,
@@ -246,8 +284,8 @@
       "last_contact_date": "2026-01-23T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 7,
@@ -265,8 +303,8 @@
       "last_contact_date": "2026-01-23T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 20,
@@ -284,8 +322,8 @@
       "last_contact_date": "2026-02-12T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 3,
@@ -303,27 +341,27 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
-      "id": 36,
-      "name": "Jeb Barnes",
+      "id": 37,
+      "name": "Jenny (Jennifer Tuttle) Rolleyson",
       "email": "",
       "email_secondary": "",
       "phone_mobile": "",
       "phone_office": "",
-      "company": "Startups.com",
-      "role_title": "Senior Growth Advisor",
-      "introduced_by": "",
-      "category": "Networking",
-      "context": "",
+      "company": "Gita Sporting Goods, LTD",
+      "role_title": "",
+      "introduced_by": "LinkedIn Network",
+      "category": "Marketing / Brand Strategy",
+      "context": "Marketing & Brand Executive; DTC + Wholesale + Product Lifecycle Growth; Charlotte, NC",
       "relationship_status": "",
       "last_contact_date": null,
       "next_step": "",
-      "notes": "Podcast Startup Therapy, LinkedIn",
-      "created_at": "2026-03-30T23:35:16.705Z",
-      "updated_at": "2026-03-30T23:35:16.705Z"
+      "notes": "",
+      "created_at": "2026-03-28T18:52:51.957Z",
+      "updated_at": "2026-03-28T18:52:51.957Z"
     },
     {
       "id": 22,
@@ -341,27 +379,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
-    },
-    {
-      "id": 16,
-      "name": "Jorge Estrada",
-      "email": "jorge@earthconscioussolutions.com",
-      "email_secondary": "",
-      "phone_mobile": "",
-      "phone_office": "",
-      "company": "Earth Conscious Solutions",
-      "role_title": "",
-      "introduced_by": "Direct Contact",
-      "category": "Project Collaboration",
-      "context": "Laundry detergent collaboration; sustainability focus",
-      "relationship_status": "",
-      "last_contact_date": "2026-01-23T00:00:00.000Z",
-      "next_step": "",
-      "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 17,
@@ -379,8 +398,27 @@
       "last_contact_date": "2026-02-10T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
+    },
+    {
+      "id": 16,
+      "name": "Jorge Estrada",
+      "email": "jorge@earthconscioussolutions.com",
+      "email_secondary": "",
+      "phone_mobile": "",
+      "phone_office": "",
+      "company": "Earth Conscious Solutions",
+      "role_title": "",
+      "introduced_by": "Direct Contact",
+      "category": "Project Collaboration",
+      "context": "Laundry detergent collaboration; sustainability focus",
+      "relationship_status": "",
+      "last_contact_date": "2026-01-23T00:00:00.000Z",
+      "next_step": "",
+      "notes": "",
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 19,
@@ -398,27 +436,27 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
-      "id": 35,
-      "name": "Kasie Jackson",
-      "email": "kjackson@revtechlabs.co",
+      "id": 38,
+      "name": "Jun Wei",
+      "email": "hello@insectta.com",
       "email_secondary": "",
       "phone_mobile": "",
       "phone_office": "",
-      "company": "RevTech Labs",
-      "role_title": "Program Manager",
-      "introduced_by": "Grant Colgan",
-      "category": "Networking",
-      "context": "",
+      "company": "Insectta",
+      "role_title": "",
+      "introduced_by": "Direct Outreach",
+      "category": "Sourcing/Supply",
+      "context": "Primary contact at Insectta; WhatsApp +65 9736 3058; insect-derived chitosan discussions",
       "relationship_status": "",
       "last_contact_date": null,
       "next_step": "",
-      "notes": "Kasie. She’s the Program Manager at RevTech Labs. They run a fintech and insurtech accelerator here in Charlotte and connect founders with mentors, investors, and corporate partners through their programs.",
-      "created_at": "2026-03-30T20:57:28.064Z",
-      "updated_at": "2026-03-30T20:57:28.064Z"
+      "notes": "",
+      "created_at": "2026-03-28T18:52:55.673Z",
+      "updated_at": "2026-03-28T18:52:55.673Z"
     },
     {
       "id": 26,
@@ -436,8 +474,8 @@
       "last_contact_date": "2026-02-03T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 33,
@@ -455,8 +493,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 8,
@@ -474,8 +512,8 @@
       "last_contact_date": "2026-01-23T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 11,
@@ -493,27 +531,8 @@
       "last_contact_date": "2026-02-03T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
-    },
-    {
-      "id": 39,
-      "name": "Milton McCrea",
-      "email": "milton.mccrea@bofa.com",
-      "email_secondary": "",
-      "phone_mobile": "",
-      "phone_office": "704.703.8515",
-      "company": "Bank of America",
-      "role_title": "Business Solutions Advisor",
-      "introduced_by": "",
-      "category": "Finance",
-      "context": "",
-      "relationship_status": "",
-      "last_contact_date": null,
-      "next_step": "",
-      "notes": "",
-      "created_at": "2026-04-02T21:00:29.737Z",
-      "updated_at": "2026-04-02T21:00:29.737Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 9,
@@ -531,8 +550,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 28,
@@ -550,8 +569,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 29,
@@ -569,8 +588,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 13,
@@ -588,27 +607,46 @@
       "last_contact_date": "2026-02-02T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
-      "id": 40,
+      "id": 41,
+      "name": "Ray J.",
+      "email": "",
+      "email_secondary": "",
+      "phone_mobile": "",
+      "phone_office": "",
+      "company": "Freelancer",
+      "role_title": "",
+      "introduced_by": "Upwork Platform",
+      "category": "Hiring",
+      "context": "E-Commerce Bookkeeper candidate; QBO, COGS expertise",
+      "relationship_status": "",
+      "last_contact_date": "2026-02-15T00:00:00.000Z",
+      "next_step": "",
+      "notes": "",
+      "created_at": "2026-03-28T18:53:06.995Z",
+      "updated_at": "2026-03-28T18:53:06.995Z"
+    },
+    {
+      "id": 42,
       "name": "Ron Knight",
       "email": "rknight@lektrotech.com",
       "email_secondary": "",
       "phone_mobile": "",
-      "phone_office": "813-786-3276",
+      "phone_office": "",
       "company": "LektroTech",
       "role_title": "",
       "introduced_by": "George Brydon",
       "category": "Product Development",
-      "context": "Formulation chemist; odor neutralizing product + potential alignment with Pristine",
+      "context": "Formulation chemist; odor neutralizing product + potential alignment with Pristine; Phone (813) 786-3276",
       "relationship_status": "",
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-04-04T17:35:51.130Z",
-      "updated_at": "2026-04-04T17:35:51.130Z"
+      "created_at": "2026-03-28T18:53:10.898Z",
+      "updated_at": "2026-03-28T18:53:10.898Z"
     },
     {
       "id": 4,
@@ -626,8 +664,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 21,
@@ -645,8 +683,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 12,
@@ -664,8 +702,8 @@
       "last_contact_date": "2026-02-13T00:00:00.000Z",
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 15,
@@ -683,8 +721,8 @@
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:42:52.695Z"
     },
     {
       "id": 23,
@@ -697,13 +735,13 @@
       "role_title": "",
       "introduced_by": "Direct Outreach",
       "category": "Packaging",
-      "context": "Packaging Specialist; 12100 Vance Davis Dr, Charlotte NC",
+      "context": "Packaging Specialist; Office (704) 659-7592; 12100 Vance Davis Dr, Charlotte NC",
       "relationship_status": "",
       "last_contact_date": null,
       "next_step": "",
       "notes": "",
-      "created_at": "2026-03-29T13:57:30.901Z",
-      "updated_at": "2026-03-29T13:57:30.901Z"
+      "created_at": "2026-03-28T18:42:52.695Z",
+      "updated_at": "2026-03-28T18:53:31.175Z"
     }
   ]
 }
